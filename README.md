@@ -2,13 +2,13 @@
 
 ## **Clustering**
 
-"*"It can be defined as "A way of grouping the data points into different clusters, consisting of similar data points. The objects with the possible similarities remain in a group that has less or no similarities with another group."
+“*” It can be defined as "A way of grouping the data points into different clusters, consisting of similar data points. The objects with the possible similarities remain in a group that has less or no similarities with another group."
 
-"*"It does it by finding some similar patterns in the unlabelled dataset such as shape, size, colour, behaviour, etc., and divides them as per the presence and absence of those similar patterns.
+“*” It does it by finding some similar patterns in the unlabelled dataset such as shape, size, colour, behaviour, etc., and divides them as per the presence and absence of those similar patterns.
 
-"*"It is an unsupervised learning method, hence no supervision is provided to the algorithm, and it deals with the unlabelled dataset.
+“*” It is an unsupervised learning method, hence no supervision is provided to the algorithm, and it deals with the unlabelled dataset.
 
-"*"After applying this clustering technique, each cluster or group is provided with a cluster-ID. ML system can use this id to simplify the processing of large and complex datasets. The clustering technique is commonly used for statistical data analysis.
+“*” After applying this clustering technique, each cluster or group is provided with a cluster-ID. ML system can use this id to simplify the processing of large and complex datasets. The clustering technique is commonly used for statistical data analysis.
 
 ## **1. Hierarchical Clustering :**
 Hierarchical clustering is unsupervised machine learning algorithm, which is used to group the unlabelled datasets into a cluster and also known as hierarchical cluster analysis or HCA.
